@@ -1,0 +1,12 @@
+item_id,product_name,department_name,price,stock_quantity
+21,"Womens red dress","womens clothes",45,100
+22,"Womens blue pants",clothes,25,100
+23,"Mens blue suit","mens clothes",150,75
+24,"boys blue sneakers","childrens shoes",35,80
+25,"girls white sneakers","childrens shoes",35,80
+26,"toddlers onesies",infants,15,125
+27,"diapers",infants,9.95,100
+28,"red wagon","childrens toys",35,27
+29,"boys bicycle","childrens toys",79.99,39
+30,"girls bicycle","childrens toys",79.99,42
+31,"Womens red pumps","womens shoes",60,189
